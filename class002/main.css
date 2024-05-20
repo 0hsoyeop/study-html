@@ -13,3 +13,8 @@
     text-align: center;
     color: dimgrey;
 }
+.box {
+    width: 100px;
+    background: aqua;
+    margin: 30px;
+}
